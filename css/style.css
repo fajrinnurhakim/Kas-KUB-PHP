@@ -1,0 +1,80 @@
+.kontenHome {
+    float: left;
+    padding-top: 200px;
+    padding-left: 70px;
+    margin-right: 170px;
+}
+
+.kontenHome2 img {
+    padding-top: 50px;
+}
+
+.kontenHome p {
+    font-size: 15pt;
+}
+
+.kontenHome .welkom {
+    margin-top: -20px;
+}
+
+.footer {
+    width: auto;
+    margin-top: 30px;
+    height: 30px;
+}
+
+.footer p {
+    text-align: center;
+}
+
+.form-signin .form-floating:focus-within {
+    z-index: 2;
+}
+
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.form-registration input{
+    border-radius: 0;
+    margin-bottom: -1px;
+}
+
+.lebar-xy{
+    height: 490px;
+}
+
+.container-kasbayar{
+    padding-top: 10px;
+    width: 500px;
+}
+.container-kasbayar form{
+    margin-top: 20px;
+}
+
+.container-new-member{
+    margin-top: 40px;
+}
+
+.container-new-member form{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.bagidua{
+    width: 450px;
+    float: left;
+}
+.bagidua2{
+    width: 450px;
+    float: left;
+    margin-left: 40px;
+}
